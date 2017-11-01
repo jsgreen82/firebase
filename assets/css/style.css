@@ -1,0 +1,8 @@
+.jumbotron {
+	color: #cc0000;
+	background-image: url("../images/trainstation.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.8;
+}
+
